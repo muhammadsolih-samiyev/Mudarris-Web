@@ -53,3 +53,47 @@ a{
 }
 /* Alem */
 
+
+/* Muhammad */
+
+.footer_item1 {
+    margin-top: 50px;
+    gap: 40px;
+    display: flex;
+    margin-left: 40px;
+}
+
+.footer_item2 {
+    width: 500px;
+    margin-right: 70px;
+}
+
+.fut2 p{
+    color: rgb(221, 221, 221);
+}
+
+.footer{
+    margin-top: 100px;
+    display: flex;
+    background-color: rgb(54, 49, 49);
+    width: 100%;
+    padding: 50px 50px;
+
+}
+
+.fooher {
+    background-color: rgb(41, 141, 223);
+    color: white;
+    border-radius: 10px;
+    width: 70px;
+    height: 40px;
+    border: none;
+}
+
+body{
+    background-color: rgb(31, 28, 28);
+}
+
+.pi{
+    color: white;
+}
