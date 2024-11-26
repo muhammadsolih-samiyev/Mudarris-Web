@@ -1,57 +1,4 @@
-/* Alem */
-header{
-    background-color: rgb(37, 37, 37);
-}
-.header_item1{
-    display: flex;
-    gap: 10px;
-    
-}
-.header_item2{
-    display: flex;
-    gap: 10px;
-}
-.header2{
-    margin-left: 180px;
-    background-color: rgb(10, 13, 26);
-    width: 1310px;
-    padding: 10px;
-    
-}
 
-.item11{
-    background-color: rgb(30, 29, 29);
-    width: 208px;
-   
-    display: block;
-}
-.item11:hover{
-  cursor: pointer;
-  transition: 0.5s;
-  background-color: rgb(20, 54, 55);
-  .header_p1{
-    color: rgb(17, 134, 134);
-  }
-  
-}
-
-a{
-    text-decoration: none;
-}
-
-.header_p1{
-    color: white;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    padding-left: 10px;
-    
- }
- .header_p2{
-    color: rgb(184, 182, 182);
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    padding-left: 10px;
-    padding-bottom: 10px;
-}
-/* Alem */
 
 
 /* Muhammad */
@@ -78,7 +25,8 @@ a{
     width: 100%;
     padding: 50px 50px;
     width: 1230px;
-    margin-left: 170px;
+    margin-left: 180px;
+    margin-top: -20px;
 
 }
 
@@ -99,4 +47,111 @@ body{
     color: white;
 }
 
+button{
+    cursor: pointer;
+}
 
+
+/* Alem */
+body {
+    background-color: #1a191f;
+    ;
+}
+
+.header_item1 {
+    display: flex;
+    gap: 10px;
+    margin-left: 110px;
+}
+
+.header_item2 {
+    display: flex;
+    gap: 10px;
+    margin-left: 110px;
+}
+
+.header2 {
+    margin-left: 180px;
+    background-color: rgb(10, 13, 26);
+    width: 1310px;
+    padding: 10px;
+
+}
+
+.item11 {
+    background-color: rgb(30, 29, 29);
+    width: 208px;
+
+    display: block;
+}
+
+.item11:hover {
+    cursor: pointer;
+    transition: 0.5s;
+    background-color: rgb(20, 54, 55);
+
+    .header_p1 {
+        color: rgb(17, 134, 134);
+    }
+
+}
+
+a {
+    text-decoration: none;
+}
+
+.header_p1 {
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-left: 10px;
+
+}
+
+.header_p2 {
+    color: rgb(184, 182, 182);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-left: 10px;
+    padding-bottom: 10px;
+}
+
+/* Alem */
+
+/* Ismoil */
+
+nav {
+    background-color: rgba(36, 198, 198, 0.899);
+    height: 50px;
+    width: 1330px;
+    margin-left: 180px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    margin-top: 50px;
+}
+
+.list {
+    list-style: none;
+    align-items: center;
+    text-align: center;
+    display: flex;
+    gap: 30px;
+
+
+
+}
+.fa-solid{
+    color: white;
+}
+.items1 {
+    margin-left: 20px;
+    margin-top: 15px;
+    
+}
+
+.items {
+    margin-right: 1130px;
+    margin-top: 15px;
+}
+
+.items2 {
+    margin-top: 18px;
+}
